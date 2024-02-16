@@ -91,23 +91,23 @@ button:hover{
    transition: transform 0.5s;
 }
 .card1{
-    background-image: url('pic-1.png');
+    background-image: url('./images/pic-1.png');
    
 
 
 }
 .card2{
-    background-image: url('pic-2.png');
+    background-image: url('./images/pic-2.png');
     
    
 }
 .card3{
-    background-image: url('pic-3.png');
+    background-image: url('./images/pic-3.png');
     
  
 }
 .card4{
-    background-image: url('pic-4.png');
+    background-image: url('./images/pic-4.png');
 
 }
 .card:hover {
