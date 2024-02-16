@@ -111,9 +111,7 @@ button:hover{
 
 }
 
-.card5{
-     background-image: url('pic-5.jpg');
-}
+
 .card:hover {
     transform: translateX(-10px);
     box-shadow: 0 0 20px rgba(155, 152, 152, 0.5);
