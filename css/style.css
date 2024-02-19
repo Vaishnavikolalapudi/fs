@@ -52,7 +52,7 @@ nav ul li a{
 .col{
     flex-basis: 50%;
 }
-h1{
+h2{
     color:#fff;
     font-size:100px;
 }
@@ -62,7 +62,7 @@ p{
     line-height: 15px;
 }
 button{
-    width:180px;
+    width:200px;
     color: #000;
     font-size: 17px;
     padding: 12px 0;
