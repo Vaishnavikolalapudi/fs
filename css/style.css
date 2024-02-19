@@ -92,26 +92,17 @@ button:hover{
 }
 .card1{
     background-image: url('pic--1.jpg');
-   
-
-
 }
 .card2{
     background-image: url('pic--2.webp');
-    
-   
 }
 .card3{
-    background-image: url('pic--3.webp');
-    
- 
+    background-image: url('pic--3.webp'); 
 }
 .card4{
     background-image: url('pic--4.png');
 
 }
-
-
 .card:hover {
     transform: translateX(-10px);
     box-shadow: 0 0 20px rgba(155, 152, 152, 0.5);
@@ -122,5 +113,5 @@ h3{
 }
 .card p{
     text-shadow:0 0 5px #000;
-    font-size:12px;
+    font-size:15px;
 }
