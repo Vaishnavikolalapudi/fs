@@ -115,9 +115,10 @@ button:hover{
 .card:hover {
     transform: translateX(-10px);
     box-shadow: 0 0 20px rgba(155, 152, 152, 0.5);
-h5{
+h3{
     color:#fff;
     text-shadow:0 0 5px #999;
+    text-align:center;
 }
 .card p{
     text-shadow:0 0 5px #000;
